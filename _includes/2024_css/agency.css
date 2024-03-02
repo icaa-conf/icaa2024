@@ -337,7 +337,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/css/2020_style/img/icaa_v1.png');
+    background-image: url('{{ site.baseurl }}/css/2020_style/img/Vanderbilt_aerial_20181108JR003-scaled.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
