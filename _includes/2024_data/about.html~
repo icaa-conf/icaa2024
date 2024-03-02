@@ -13,16 +13,12 @@
             </p> -->
         </div>
         <div class="row">
-            <h2 class="first">About ICAA 2024</h2>            
+            <h2 class="first">About ICAA 2023</h2>            
             
             <p>
-                The 3rd IEEE Conference on Assured Autonomy (ICAA'24) will take place from 
-                October 10 - 11, 2024 at the Vanderbilt University, Nashville, Tennessee, USA.
+                The 2023 IEEE Conference on Assured Autonomy (ICAA) will take place from 6/6/2023 - 6/8/2023 at the Johns Hopkins University Applied Physics Laboratory, Maryland, USA  .
 
-                ICAA seeks contributions on all aspects of assurance for AI and autonomy, including safety, security, and 
-                privacy in autonomous systems. Papers that encourage the discussion and exchange of 
-                experimental and theoretical results, novel designs, and works in progress are preferred. 
-                Topics of interest include (but are not limited to) AI/Autonomy Safety, and Security and Privacy.
+                ICAA seeks contributions on all aspects of AI safety, security, and privacy in autonomous systems. Papers that encourage the discussion and exchange of experimental and theoretical results, novel designs, and works in progress are preferred. Topics of interest include (but are not limited to) AI Safety, and Security and Privacy.
             </p>
         </div>
     </div>
@@ -44,7 +40,6 @@
         </div>
     <div class="row">
         <p>
-Needs to be updated. 
             The IEEE International Conference on Assured Autonomy (ICAA) plans to address the gap that exists between theory-heavy autonomous systems and algorithms and the privacy, security, and safety of their real-world implementations. Advances in machine learning and artificial intelligence have shown great promise in automating complex decision-making processes across transportation, critical infrastructure, and cyber infrastructure domains. Practical implementations of these algorithms require significant systems engineering and integration support, especially as they integrate with the physical world. This integration is wrought with artificial intelligence (AI) safety, security, and privacy issues.
 
             The primary focus of this conference is the: (1) detection of, (2) response to, and (3) recovery from AI safety, security, and privacy violations in autonomous systems. Key technical challenges include discriminating between application-layer data breaches and benign process noises, responding to breaches and failures in real-time systems, and recovering from decision making failures autonomously.
