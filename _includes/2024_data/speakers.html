@@ -51,13 +51,13 @@ coming soon
                     <div class="col-lg-12 text-center">
                         {% for team in site.data.twenty_20.teams_1 %}
                         <div class="col-md-4 col-sm-6 speakers-item">
-                          <img class="team-photo" src="/icaa2023/css/2020_style/img/team/{{ team.img }}">
+                          <!-- <img class="team-photo" src="/icaa2023/css/2020_style/img/team/{{ team.img }}"> -->
                           <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
                           <h3>{{ team.name }}</h3>
                           <p> 
                             <span>{{ team.position }}</span> <br>
-                            <span> {{ team.affiliation }}</span> <br>
-                            <a class="url" href="{{ team.url }}"><span >Home page</span></a>
+                            <span> {{ team.affiliation }}</span> <!--<br>-->
+                            <!--<a class="url" href="{{ team.url }}"><span >Home page</span></a>-->
                             </p>
                         </div> 
                         {% endfor %}
@@ -66,19 +66,26 @@ coming soon
             </div>
         
             <div class="container">
-            <!-- team2: this section wraps the team members as a container-->
-                <section class="cf team-container team-container-top black-frame">
+            <!-- team2: this section wraps the Steering Committee as a container-->
+               <div class="col-lg-12">
+                    <h2>
+                        Steering Committee
+                    </h2>
+                    <ul>
+                
+                <section class="cf steering-container black-frame">
                     <div class="col-lg-12 text-center">
                         {% for team in site.data.twenty_20.teams_2 %}
                         <div class="col-md-4 col-sm-6 speakers-item">
-                          <img class="team-photo" src="/icaa2023/css/2020_style/img/team/{{ team.img }}">
+                          <!-- <img class="team-photo" src="/icaa2023/css/2020_style/img/team/{{ team.img }}"> -->
                           <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
                           <h3>{{ team.name }}</h3>
-                          <p> 
+                          <!-- <p> 
                             <span>{{ team.position }}</span> <br>
                             <span> {{ team.affiliation }}</span> <br>
                             <a class="url" href="{{ team.url }}"><span >Home page</span></a>
                             </p>
+                           -->
                         </div> 
                         {% endfor %}
                     </div>
