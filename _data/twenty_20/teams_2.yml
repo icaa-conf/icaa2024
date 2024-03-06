@@ -1,9 +1,9 @@
 
-- name: James Bellingham, Institute for Assured Autonomy Johns Hopkins University
-  affiliation: 
+- name: James Bellingham
+  affiliation: Institute for Assured Autonomy Johns Hopkins University
 
-- name: Anton Dabhura, Institute for Assured Autonomy Johns Hopkins University
-  affiliation: 
+- name: Anton Dabhura
+  affiliation: Institute for Assured Autonomy Johns Hopkins University
 
 - name: Gabor Karsai
   affiliation: Vanderbilt University
@@ -11,8 +11,8 @@
 - name: Sandeep Neema
   affiliation: Vanderbilt University
 
-- name: Lanier Watkins, Institute for Assured Autonomy Johns Hopkins University
-  affiliation: The Johns Hopkins University, USA
+- name: Lanier Watkins
+  affiliation: Institute for Assured Autonomy Johns Hopkins University
 
 
 
