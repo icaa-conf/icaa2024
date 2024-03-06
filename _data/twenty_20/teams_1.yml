@@ -1,4 +1,69 @@
 - name: Aurora Schmidt
   position: Conference Chair
+  img:
+  email: Aurora.Schmidt@jhuapl.edu
+  url: 
   affiliation: Johns Hopkins University Applied Physics Laboratory
   
+
+
+- name: James Weimer
+  position: Program Committee Chair
+  img: weimer.jpeg
+  email: james.weimer@Vanderbilt.Edu
+  url:
+  affiliation: Vanderbilt University
+
+- name: Akshay Rajhans
+  position: Program Committee Co-chair
+  img: 
+  email: arajhans@mathworks.com
+  url:
+  affiliation: Mathworks, Inc.
+
+- name: Christopher Rouff
+  position: Finance Chair
+  img: rouff.jpeg
+  email: Christopher.Rouff@jhuapl.edu
+  url:
+  affiliation: Johns Hopkins University Applied Physics Laboratory
+  
+
+- name: Ivan Papusha
+  position: Publicity Chair
+  img: 
+  email: ivan.papusha@subgradient.com
+  url:
+  affiliation: Subgradient, Inc.
+
+
+- name: Roy Sterritt
+  position: Publication Chair
+  img: roy.jpg
+  email: r.sterritt@ulster.ac.uk
+  url:
+  affiliation: Ulster University
+
+
+
+- name: Forrest Laine
+  position: Local Chair
+  img: 
+  email: forrest.laine@vanderbilt.edu
+  url:
+  affiliation: Vanderbilt University
+
+
+- name: Michael Wilbur
+  position: Workshops Co-chair
+  img: 
+  email: Michael.Wilbur@jhuapl.edu
+  url:
+  affiliation: Johns Hopkins University Applied Physics Laboratory
+
+- name: Meiyi Ma
+  position: Workshops Co-chair
+  img: 
+  email: meiyi.ma@vanderbilt.edu
+  url:
+  affiliation: Vanderbilt University
