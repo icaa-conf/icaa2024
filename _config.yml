@@ -17,7 +17,7 @@ social:
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-include: ['_2020_pages']
+include: ['_includes/2024_data']
 
 plugins:
   - jekyll-sitemap
